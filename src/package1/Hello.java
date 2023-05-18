@@ -5,6 +5,9 @@ public class Hello {
 		 public static void main(String args[])
 		 {
 			 System.out.println("HELLO WORLD");
-			 system.out.println("HELLO ALL");
+			 System.out.println("HELLO deva");
+       System.out.println("HELLO praveen");
+
 		 }
+
 }
